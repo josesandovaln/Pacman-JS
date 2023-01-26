@@ -10,9 +10,9 @@ https://github.com/servetgulnaroglu
 
 ## Layout
 
-![Pacman1] ()
+<img src="https://github.com/josesandovaln/Pacman-JS/blob/main/assets/src/pacman1.gif">
 
-![Pacman2] ()
+<img src="https://github.com/josesandovaln/Pacman-JS/blob/main/assets/src/pacman2.gif">
 
 ## Tecnologia utilizada
 
